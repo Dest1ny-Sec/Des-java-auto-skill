@@ -1,0 +1,8 @@
+# Des-java-auto-skill Python 依赖
+# 安装: pip3 install -r requirements.txt
+
+# 漏洞扫描脚本依赖
+PyYAML>=5.1
+
+# OSV.dev API 查询依赖
+requests>=2.20.0

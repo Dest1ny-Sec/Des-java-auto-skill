@@ -1,0 +1,55 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Java build artifacts
+*.class
+target/
+*.jar
+!cfr-*.jar
+
+# Audit output directories (generated at runtime)
+*_audit/
+
+# Environment files
+.env
+.env.local
+
+# OS generated files
+.DocumentRecycle
+Icon?

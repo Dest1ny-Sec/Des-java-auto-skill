@@ -62,6 +62,8 @@
 
 ## 它不是简单的正则匹配，而是一个 **7 阶段流水线的智能审计**
 
+传统 Java 审计靠人肉 grep + 反编译 + 经验，效率低。Des-java-auto-skill 跑 **7 阶段流水线**（路由识别 → 控制器分析 → 调用链追踪 → sink 匹配 → 利用链编排 → 报告 → 快速模式），把"中危"串成"Critical"，还实时查 OSV.dev 3000+ CVE 补组件漏洞。
+
 - **路由识别 → 控制器分析 → 调用链追踪 → sink 匹配 → 利用链编排 → 报告生成 → 快速模式**
 - **8** 漏洞类型 / **12** sink / **10+** 表达式引擎（OGNL / SpEL / MVEL / FreeMarker / Velocity）
 - OSV.dev 实时查 **3000+ CVE**（Log4j / Fastjson / Spring / Shiro / Struts2 / Jackson / XStream）

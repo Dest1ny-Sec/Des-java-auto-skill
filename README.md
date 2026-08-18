@@ -1,21 +1,34 @@
 <div align="center">
 
-<!-- Banner: Java 经典配色（深红→红→橙→金） + waving -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,30:8B0000,70:DC143C,100:FF8C00&height=240&section=header&text=Des-java-auto-skill&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=Java%20Web%20%E5%85%A8%E9%93%BE%E8%B7%AF%E8%87%AA%E5%8A%A8%E5%8C%96%E5%AE%A1%E8%AE%A1&descSize=18&descColor=FFD700&animation=twinkling" />
+<div style="background: #0B0E14; padding: 56px 64px 40px 64px; border-radius: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif; color: #F5F1E8;">
+
+<h1 style="font-size: 64px; font-weight: 800; color: #F5F1E8; margin: 0 0 16px 0; letter-spacing: 0.5px;">Des-java-auto-skill</h1>
+
+<p style="font-size: 22px; color: #C9C5BC; margin: 0 0 4px 0; font-weight: 600;">Java Web 全链路自动化审计</p>
+<p style="font-size: 16px; color: #8A93A6; margin: 0 0 28px 0; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;">End-to-end automated Java Web audit</p>
+
+<p style="font-size: 20px; margin: 0 0 24px 0; line-height: 1.6;"><span style="color:#8A93A6; font-weight:400; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;">给路径</span>&nbsp;&nbsp;<span style="color:#5C6370; font-weight:400; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;">→</span>&nbsp;&nbsp;<span style="color:#8A93A6; font-weight:400; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;">7 阶段</span>&nbsp;&nbsp;<span style="color:#5C6370; font-weight:400; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;">→</span>&nbsp;&nbsp;<span style="color:#FF8C00; font-weight:700; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;">跑 sink 检测</span>&nbsp;&nbsp;<span style="color:#5C6370; font-weight:400; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;">→</span>&nbsp;&nbsp;<span style="color:#8A93A6; font-weight:400; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;">出报告</span></p>
+
+<p style="font-size: 16px; color: #8A93A6; margin: 0 0 28px 0; line-height: 1.7;">给一个 Java Web 项目路径，自动跑完 7 阶段流水线，出一份完整审计报告。</p>
+
+<p style="font-size: 14px; color: #5C6370; margin: 0; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 0.5px;">
+<strong style="color:#FF8C00;">8</strong> 漏洞 &nbsp;·&nbsp; <strong style="color:#FF8C00;">7</strong> 阶段 &nbsp;·&nbsp; <strong style="color:#FF8C00;">12</strong> sink &nbsp;·&nbsp; <strong style="color:#FF8C00;">10+</strong> 表达式引擎
+</p>
+
+<p style="font-size: 13px; color: #5C6370; margin: 8px 0 0 0; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;">Java · Claude Code · 12 sink / 10+ 表达式引擎</p>
+
+</div>
 
 <br/>
 
-<!-- 暗红底：打字机 + 关键指标 -->
-<div style="background: #1a0000; padding: 32px 40px; border-radius: 0 0 16px 16px; margin: -8px 0 24px 0; text-align: center;">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&weight=600&duration=2800&pause=1800&color=FF8C00&center=true&vCenter=true&repeat=true&width=900&height=60&lines=8%20%E7%A7%8D%E6%BC%8F%E6%B4%9E%E7%B1%BB%E5%9E%8B;7%20%E9%98%B6%E6%AE%B5%E6%B5%81%E6%B0%B4%E7%BA%BF;OSV%203000%2B%20CVE%20%E5%AE%9E%E6%97%B6%E6%9F%A5;%E5%8E%BB%E5%96%9D%E6%9D%AF%E5%92%96%E5%95%A1%2C%E5%9B%9E%E6%9D%A5%E7%9C%8B%E6%8A%A5%E5%91%8A" alt="" />
-  <p style="color: #FFB3D9; font-size: 14px; letter-spacing: 3px; font-family: 'Fira Code', monospace; margin: 12px 0 0; font-weight: 300;">
-    <strong style="color: #fff;">8</strong> 漏洞 &nbsp;·&nbsp; <strong style="color: #fff;">7</strong> 阶段 &nbsp;·&nbsp; <strong style="color: #fff;">12</strong> sink &nbsp;·&nbsp; <strong style="color: #fff;">10+</strong> 表达式引擎
-  </p>
+## stacks
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,claude,regex,git,linux,docker,vscode" alt="stacks" />
 </div>
 
-</div>
 
-## 🛠️ stacks
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,claude,regex,git,linux,docker,vscode" alt="stacks" />

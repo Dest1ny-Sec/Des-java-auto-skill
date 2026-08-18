@@ -1,10 +1,27 @@
+<div align="center">
+
+<!-- Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0118,30:3A0CA3,70:7B2CBF,100:FF006E&height=240&section=header&text=Des-java-auto-skill&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=Java%20Web%20%E5%85%A8%E9%93%BE%E8%B7%AF%E8%87%AA%E5%8A%A8%E5%8C%96%E5%AE%A1%E8%AE%A1&descSize=18&descColor=00D4AA&animation=twinkling" />
+
+<br/>
+
+</div>
+
 # Des-java-auto-skill
 
 > 一行命令，挖完整个 Java Web 项目。基于 [java-audit-skills](https://github.com/RuoJi6/java-audit-skills) 深度二次开发。
 
-[![License](https://img.shields.io/badge/license-学习%2F研究用-blue)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-%3E%3D%202.1.32-orange)](https://claude.ai/code)
-[![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux%20%7C%20Windows-brightgreen)]()
+<p align="center">
+  <a href="https://github.com/Dest1ny-Sec/Des-java-auto-skill/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Dest1ny-Sec/Des-java-auto-skill?style=flat-square&color=7B2CBF&labelColor=0d1117" alt="License" /></a>
+  <a href="https://github.com/Dest1ny-Sec/Des-java-auto-skill/stargazers"><img src="https://img.shields.io/github/stars/Dest1ny-Sec/Des-java-auto-skill?style=flat-square&color=FF006E&labelColor=0d1117" alt="Stars" /></a>
+  <a href="https://github.com/Dest1ny-Sec/Des-java-auto-skill/actions"><img src="https://img.shields.io/github/actions/workflow/status/Dest1ny-Sec/Des-java-auto-skill/ci.yml?style=flat-square&color=00D4AA&labelColor=0d1117&label=CI" alt="CI" /></a>
+  <a href="https://claude.ai/code"><img src="https://img.shields.io/badge/Claude%20Code-%3E%3D%202.1.32-FF6B35?style=flat-square&labelColor=0d1117" alt="Claude Code" /></a>
+  <img src="https://img.shields.io/badge/platform-macOS%20%7C%20Linux%20%7C%20Windows-3DDC84?style=flat-square&labelColor=0d1117" alt="Platform" />
+</p>
+
+<br/>
+
+---
 
 ---
 

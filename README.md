@@ -55,6 +55,17 @@
 
 <sub>基于 Claude Code · JavaParser AST 解析 · OSV.dev CVE API</sub>
 
+
+> ⚠️ **仅供学术交流与安全研究使用 · 禁止用于任何非法或盈利行为 · 请确保所有测试目标均已获得授权**
+
+---
+
+## 它不是简单的正则匹配，而是一个 **7 阶段流水线的智能审计**
+
+- **路由识别 → 控制器分析 → 调用链追踪 → sink 匹配 → 利用链编排 → 报告生成 → 快速模式**
+- **8** 漏洞类型 / **12** sink / **10+** 表达式引擎（OGNL / SpEL / MVEL / FreeMarker / Velocity）
+- OSV.dev 实时查 **3000+ CVE**（Log4j / Fastjson / Spring / Shiro / Struts2 / Jackson / XStream）
+
 # Des-java-auto-skill
 
 > 一行命令，挖完整个 Java Web 项目。基于 [java-audit-skills](https://github.com/RuoJi6/java-audit-skills) 深度二次开发。
@@ -337,3 +348,11 @@ Des-java-auto-skill/
 本项目基于 [java-audit-skills](https://github.com/RuoJi6/java-audit-skills) 二次开发，在此基础上新增 3 种漏洞类型（反序列化/SSRF/表达式注入）、OSV.dev 3000+ CVE 覆盖、利用链编排、增量审计、快速模式等能力。
 
 仅供学习和授权安全研究使用。
+
+## ⚠️ 免责声明
+
+**本工具仅供学术交流与安全研究使用。** 严禁用于任何非法活动、未授权测试或盈利行为。使用者需自行确保所有测试目标已获得明确授权，并对自身行为及其后果承担全部责任。
+
+## 📜 License
+
+[MIT](LICENSE) — 基于 [java-audit-skills](https://github.com/RuoJi6/java-audit-skills) 深度二次开发。

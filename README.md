@@ -1,27 +1,44 @@
 <div align="center">
 
-<div style="background: #0B0E14; padding: 56px 64px 40px 64px; border-radius: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif; color: #F5F1E8;">
+<table style="background: #0B0E14; padding: 48px 56px; border-radius: 8px; color: #F5F1E8; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif; width: 100%; border-collapse: separate; border-spacing: 0;">
+<tr>
+<td style="width: 60%; vertical-align: top; padding-right: 24px;">
 
-<h1 style="font-size: 64px; font-weight: 800; color: #F5F1E8; margin: 0 0 16px 0; letter-spacing: 0.5px;">Des-java-auto-skill</h1>
+<h1 style="font-size: 60px; font-weight: 800; color: #F5F1E8; margin: 0 0 12px 0; letter-spacing: 0.5px; line-height: 1.1;">Des-java-auto-skill</h1>
 
 <p style="font-size: 22px; color: #C9C5BC; margin: 0 0 4px 0; font-weight: 600;">Java Web 全链路自动化审计</p>
-<p style="font-size: 16px; color: #8A93A6; margin: 0 0 28px 0; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;">End-to-end automated Java Web audit</p>
+<p style="font-size: 16px; color: #8A93A6; margin: 0 0 8px 0; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;">8 漏洞 · 7 阶段 · 12 sink · 10+ 引擎</p>
+<p style="font-size: 14px; color: #5C6370; margin: 0 0 24px 0; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;">End-to-end automated Java Web audit</p>
 
-<p style="font-size: 20px; margin: 0 0 24px 0; line-height: 1.6;"><span style="color:#8A93A6; font-weight:400; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;">给路径</span>&nbsp;&nbsp;<span style="color:#5C6370; font-weight:400; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;">→</span>&nbsp;&nbsp;<span style="color:#8A93A6; font-weight:400; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;">7 阶段</span>&nbsp;&nbsp;<span style="color:#5C6370; font-weight:400; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;">→</span>&nbsp;&nbsp;<span style="color:#FF8C00; font-weight:700; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;">跑 sink 检测</span>&nbsp;&nbsp;<span style="color:#5C6370; font-weight:400; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;">→</span>&nbsp;&nbsp;<span style="color:#8A93A6; font-weight:400; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;">出报告</span></p>
+<p style="font-size: 20px; margin: 0 0 20px 0; line-height: 1.5;"><span style="color:#8A93A6; font-weight:400; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;">给路径</span>&nbsp;&nbsp;<span style="color:#5C6370; font-weight:400; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;">→</span>&nbsp;&nbsp;<span style="color:#8A93A6; font-weight:400; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;">7 阶段</span>&nbsp;&nbsp;<span style="color:#5C6370; font-weight:400; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;">→</span>&nbsp;&nbsp;<span style="color:#FF8C00; font-weight:700; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;">跑 sink</span>&nbsp;&nbsp;<span style="color:#5C6370; font-weight:400; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;">→</span>&nbsp;&nbsp;<span style="color:#8A93A6; font-weight:400; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;">出报告</span></p>
 
-<p style="font-size: 16px; color: #8A93A6; margin: 0 0 28px 0; line-height: 1.7;">给一个 Java Web 项目路径，自动跑完 7 阶段流水线，出一份完整审计报告。</p>
+<p style="font-size: 16px; color: #8A93A6; margin: 0 0 28px 0; line-height: 1.7;">给一个 Java Web 项目路径，自动跑完全流程，出一份完整审计报告。</p>
 
-<p style="font-size: 14px; color: #5C6370; margin: 0; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 0.5px;">
-<strong style="color:#FF8C00;">8</strong> 漏洞 &nbsp;·&nbsp; <strong style="color:#FF8C00;">7</strong> 阶段 &nbsp;·&nbsp; <strong style="color:#FF8C00;">12</strong> sink &nbsp;·&nbsp; <strong style="color:#FF8C00;">10+</strong> 表达式引擎
-</p>
+<p style="font-size: 13px; color: #5C6370; margin: 0; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 0.3px;">Java · Claude Code · JavaParser</p>
+<p style="font-size: 13px; color: #5C6370; margin: 6px 0 0 0; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 0.3px;">8 漏洞类型 · 7 阶段 · 12 sink · 10+ 表达式引擎</p>
 
-<p style="font-size: 13px; color: #5C6370; margin: 8px 0 0 0; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;">Java · Claude Code · 12 sink / 10+ 表达式引擎</p>
+</td>
+<td style="width: 40%; vertical-align: top;">
 
+<div style="background: #10141D; border: 1.5px solid #3A4150; border-radius: 10px; padding: 14px 18px 18px 18px; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 14px; line-height: 1.5;">
+
+<div style="display: flex; align-items: center; gap: 6px; padding-bottom: 10px; border-bottom: 1px solid #1A2130; margin-bottom: 12px;">
+<span style="width: 9px; height: 9px; border-radius: 50%; background: #5C6370;"></span>
+<span style="width: 9px; height: 9px; border-radius: 50%; background: #5C6370;"></span>
+<span style="width: 9px; height: 9px; border-radius: 50%; background: #FF8C00;"></span>
+<span style="color: #5C6370; font-size: 12px; margin-left: 10px;">java-skill · audit pipeline</span>
 </div>
+
+<div style="color:#F5F1E8; font-weight:400;">$ /java-web-audit /path/to/spring-app</div><div style="color:#8A93A6; font-weight:400;">[1/7] 路由识别 ... 23 个</div><div style="color:#8A93A6; font-weight:400;">[2/7] 控制器分析 ... OK</div><div style="color:#8A93A6; font-weight:400;">[3/7] 调用链追踪 ... OK</div><div style="color:#8A93A6; font-weight:400;">[4/7] sink 匹配 ... 8 漏洞命中</div><div style="color:#8A93A6; font-weight:400;">[5/7] 利用链编排 ... 1 链</div><div style="color:#8A93A6; font-weight:400;">[6/7] 报告生成 ... OK</div><div style="color:#FF8C00; font-weight:700;">[!] 8 漏洞 · 1 利用链 · 报告 → ./report.md</div><div style="color:#F5F1E8; font-weight:400;">$ ▮</div>
+</div>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## stacks
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,claude,regex,git,linux,docker,vscode" alt="stacks" />

@@ -7,7 +7,7 @@
 
 <!-- 暗紫底：打字机 + 关键指标 -->
 <div style="background: #0a0118; padding: 32px 40px; border-radius: 0 0 16px 16px; margin: -8px 0 24px 0; text-align: center;">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&weight=600&duration=2800&pause=1800&color=00D4AA&center=true&vCenter=true&repeat=true&width=900&height=60&lines=8%20%E7%A7%8D%E6%BC%8F%E6%B4%9E%E7%B1%BB%E5%9E%8B%20%E2%9A%96%EF%B8%8F;7%20%E9%98%B6%E6%AE%B5%E6%B5%81%E6%B0%B4%E7%BA%BF%20%F0%9F%9A%80;OSV%203000%2B%20CVE%20%E5%AE%9E%E6%97%B6%E6%9F%A5%20%F0%9F%93%8A;%E5%8E%BB%E5%96%9D%E6%9D%AF%E5%92%96%E5%95%A1%2C%E5%9B%9E%E6%9D%A5%E7%9C%8B%E6%8A%A5%E5%91%8A%20%E2%98%95" alt="" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&weight=600&duration=2800&pause=1800&color=00D4AA&center=true&vCenter=true&repeat=true&width=900&height=60&lines=8%20%E7%A7%8D%E6%BC%8F%E6%B4%9E%E7%B1%BB%E5%9E%8B;7%20%E9%98%B6%E6%AE%B5%E6%B5%81%E6%B0%B4%E7%BA%BF;OSV%203000%2B%20CVE%20%E5%AE%9E%E6%97%B6%E6%9F%A5;%E5%8E%BB%E5%96%9D%E6%9D%AF%E5%92%96%E5%95%A1%2C%E5%9B%9E%E6%9D%A5%E7%9C%8B%E6%8A%A5%E5%91%8A" alt="" />
   <p style="color: #FFB3D9; font-size: 14px; letter-spacing: 3px; font-family: 'Fira Code', monospace; margin: 12px 0 0; font-weight: 300;">
     <strong style="color: #fff;">8</strong> 漏洞 &nbsp;·&nbsp; <strong style="color: #fff;">7</strong> 阶段 &nbsp;·&nbsp; <strong style="color: #fff;">12</strong> sink &nbsp;·&nbsp; <strong style="color: #fff;">10+</strong> 表达式引擎
   </p>
